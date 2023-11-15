@@ -1,5 +1,5 @@
 /* calculates total amount of your clothes lost to lint in the laundry by weight
- * written 2023-11-15 00:56
+ * written 2023-11-15 12:56am
  */
 
 #include <stdio.h>
