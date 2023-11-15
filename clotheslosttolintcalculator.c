@@ -3,6 +3,7 @@
  */
 
 #include <stdio.h>
+
 int main(){
 	float clothes;
 	float lint;
