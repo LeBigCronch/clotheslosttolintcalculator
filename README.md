@@ -6,7 +6,7 @@ A utility that calculates the percentage of your clothes lost to lint by weight
 ```
 make install
 ```
-#Uninstall
+#Uninstallation
 (also requires root user privileges)
 ```
 make uninstall
